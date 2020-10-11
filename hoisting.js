@@ -12,9 +12,9 @@ function thisIsCrazy() {
   // fix the code in here:
 
   thisIsCrazy();
-thisIsCrazy = "hey!!!";
-  var thisIsCrazy = function (){
 
+  var thisIsCrazy = function (){
+thisIsCrazy = "hey!!!";
     console.log(thisIsCrazy);
   }
 }
