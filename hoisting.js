@@ -5,27 +5,27 @@ function callMe() {
   console.log("but here's my number..");
   console.log("so call me");
   return lyric;
+
 }
 
 
 function crazy() {
   // fix the code in here:
   thisIsCrazy();
-console.log("hey!!!")
-  var thisIsCrazy = function (){
 
+  var thisIsCrazy = function (){
+    console.log("hey!!!")
   }
 }
 
 function sayMyName() {
   // fix the code in here:
 
-
   sayMy();
 
   function sayMy() {
     var name = "Kristin";
     console.log(name);
-
+    
   }
 }
