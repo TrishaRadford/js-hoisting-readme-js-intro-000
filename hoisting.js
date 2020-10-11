@@ -12,7 +12,7 @@ Crazy();
 function thisIsCrazy() {
   // fix the code in here:
 console.log("hey!!!");
-  
+
 }
   var Crazy = function(){
     console.log("hey!!!");
