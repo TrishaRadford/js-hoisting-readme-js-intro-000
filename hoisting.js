@@ -12,7 +12,7 @@ function thisIsCrazy(string) {
   // fix the code in here:
 
   thisIs();
-  
+
 
   function thisIs (){
 var crazy = "hey!!!";
