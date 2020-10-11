@@ -8,14 +8,14 @@ function callMe() {
 
 }
 
-thisIsCrazy();
+
 function crazy() {
   // fix the code in here:
 
+  thisIsCrazy();
 
-var crazy = "hey!!!";
   var thisIsCrazy = function (){
-    console.log(crazy);
+    console.log("hey!!!")
   }
 }
 
