@@ -12,9 +12,9 @@ function thisIsCrazy(string) {
   // fix the code in here:
 
   thisIsCrazy();
-
+var Crazt = "hey!!!";
   var thisIsCrazy = function (){
-
+return function()
     console.log("hey!!!");
   }
 }
