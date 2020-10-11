@@ -14,11 +14,10 @@ function thisIsCrazy() {
   thisIsCrazy();
 
   var thisIsCrazy = function (){
-var Crazy = "hey!!!";
-    return Crazy;
-}
-}
 
+    console.log("hey!!!");
+  }
+}
 
 function sayMyName() {
   // fix the code in here:
