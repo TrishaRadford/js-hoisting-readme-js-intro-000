@@ -8,15 +8,16 @@ function callMe() {
 }
 
 
-function thisIsCrazy() {
+function thisIsCrazy(string) {
   // fix the code in here:
 
-
+  thisIsCrazy();
 
   var thisIsCrazy = function (){
-thisIsCrazy();
-    console.log("hey");
+if (string === crazy){
+    return "hey!!!";
   }
+}
 }
 
 function sayMyName() {
