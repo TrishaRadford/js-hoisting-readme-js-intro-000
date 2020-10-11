@@ -11,9 +11,6 @@ function callMe() {
 function thisIsCrazy() {
   // fix the code in here:
 var crazy = "hey!!!";
-console.log(crazy);
-
-}
   thisIsCrazy();
 
   var thisIsCrazy = function (){
