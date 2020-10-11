@@ -10,7 +10,7 @@ function callMe() {
 
 function thisIsCrazy() {
   // fix the code in here:
-console.log("hey!!!")
+console.log("hey!!!");
   thisIsCrazy();
 
   var thisIsCrazy = function (){
