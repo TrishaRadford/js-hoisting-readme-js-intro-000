@@ -19,6 +19,7 @@ return function () {
   }
 }
 }
+var Crazy = "hey!!!";
 
 function sayMyName() {
   // fix the code in here:
