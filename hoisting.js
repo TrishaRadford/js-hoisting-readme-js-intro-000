@@ -12,10 +12,10 @@ function thisIsCrazy() {
   // fix the code in here:
 
   thisIsCrazy();
-
+var crazy = "hey!!!";
   var thisIsCrazy = function (){
-
-    console.log("hey!!!");
+crazy = "hey!!!";
+    console.log(crazy);
   }
 }
 
